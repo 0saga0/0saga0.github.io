@@ -5,7 +5,7 @@ site
 
 #apt install wget zip unzip
 
-#wget https://github.com/0saga0/0saga0.github.io/archive/master.zip
+#wget  https://github.com/0saga0/0saga0.github.io/archive/master.zip
 
 #unzip master.zip
 
