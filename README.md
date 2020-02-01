@@ -5,8 +5,8 @@ site
 
 #apt install wget zip unzip
 
-#wget https://github.com/mikewubox/mikewubox.github.io/archive/master.zip
+#wget https://github.com/0saga0/0saga0.github.io/archive/master.zip
 
 #unzip master.zip
 
-#cp -rf mikewubox.github.io-master/*  /var/www/html
+#cp -rf 0saga0.github.io-master/*  /var/www/html
